@@ -34,13 +34,13 @@ The project makes use of Gradle and uses the Gradle wrapper to help you out carr
 
 List all the tasks that Gradle can do, such as build and test.
 
-$ ./gradlew tasks
-
+    $ ./gradlew tasks
+  
 # Build the project
 
 Compiles the project, runs the test and then creates an executable JAR file
 
-  $ ./gradlew build
+    $ ./gradlew build
 
 # Run the tests
 
@@ -62,7 +62,7 @@ There are two types of tests, the unit tests and the functional tests. These can
 
 Run the application which will be listening on port 8080.
 
-  $ ./gradlew bootRun
+    $ ./gradlew bootRun
 
 # API
 
