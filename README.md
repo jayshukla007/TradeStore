@@ -4,9 +4,13 @@ transmission of trades. We need to create a one trade store, which stores the tr
 order
 
 Trade Id Version Counter-Party Id Book-Id Maturity DateCreated DateExpired
+
 T1 1 CP-1 B1 20/05/2020 <todaydate> N
+  
 T2 2 CP-2 B1 20/05/2021 <todaydate> N
+  
 T2 1 CP-1 B1 20/05/2021 14/03/2015 N
+
 T3 3 CP-3 B2 20/05/2014 <today date> Y
 
 There are couples of validation, we need to provide.
