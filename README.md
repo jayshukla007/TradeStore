@@ -86,9 +86,9 @@ Below is a list of API endpoints with their respective input and output. Please 
  
  # Get all trades
  
-   Endpoint
+    Endpoint
    
-   GET /trade 
+    GET /trade 
 
     
    
